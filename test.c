@@ -14,7 +14,7 @@ int MakeH2O(void){
     i++;
     if((i%3)==0)
         printf("->H2O\n");
-    sleep(2);
+    sleep(1);
     return 0;
 }
 
